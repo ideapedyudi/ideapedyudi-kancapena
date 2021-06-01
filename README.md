@@ -1,7 +1,7 @@
 # ideapedyudi-kancapena
 aplikasi majalah digital smkn 1 gending berbasis webview android, dibuat dengan html,css,javascript,codeigniter dan mysql, android studio untuk webview ke android
 
-## view
+### view
 
 ## playstore
 <img src="https://github.com/ideapedyudi/ideapedyudi-kancapena/blob/main/gambar/playstore.jpg" style="text-align : center;" width="230px" > </img>
