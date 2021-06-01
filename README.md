@@ -4,7 +4,7 @@ aplikasi majalah digital berbasis webvie android, dibuat dengan html,css,javascr
 ## view
 
 playstore
-<img src="https://github.com/ideapedyudi/ideapedyudi-kancapena/blob/main/gambar/playstore.jpg" style="text-align : center;" > </img>
+<img src="https://github.com/ideapedyudi/ideapedyudi-kancapena/blob/main/gambar/playstore.jpg" style="text-align : center;width: 30px;" > </img>
 
 halaman awal
 <img src="https://github.com/ideapedyudi/ideapedyudi-kancapena/blob/main/gambar/1.jpg" style="text-align : center;" > </img>
