@@ -1,5 +1,5 @@
 # ideapedyudi-kancapena
-aplikasi majalah digital berbasis webvie android, dibuat dengan html,css,javascript,codeigniter dan mysql, android studio untuk webview ke android
+aplikasi majalah digital smkn 1 gending berbasis webvie android, dibuat dengan html,css,javascript,codeigniter dan mysql, android studio untuk webview ke android
 
 ## view
 
